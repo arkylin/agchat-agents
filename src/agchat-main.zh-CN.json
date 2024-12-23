@@ -16,7 +16,7 @@
   },
   "homepage": "https://wiki.cn-agrobot.com",
   "identifier": "agchat-main",
-  "locale": "zh-CN # you can set locale if you use other i18n language, default is en-US",
+  "locale": "zh-CN",
   "meta": {
     "avatar": "🤯",
     "tags": ["AgRobot"],
