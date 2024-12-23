@@ -35,6 +35,7 @@ export const githubHomepage = 'https://github.com/lobehub/lobe-chat-agents';
 export const readmeSplit = '<!-- AWESOME PROMPTS -->';
 
 export const category = [
+  'AgRobot团队',
   'academic',
   'career',
   'copywriting',
