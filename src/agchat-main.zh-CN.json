@@ -1,0 +1,27 @@
+{
+  "author": "GQL",
+  "config": {
+    "displayMode": "chat",
+    "systemRole": "你是AgRobot团队专属助手",
+    "model": "gpt-4o",
+    "params": {
+      "frequency_penalty": 0,
+      "presence_penalty": 0,
+      "temperature": 0.6,
+      "top_p": 1
+    },
+    "enableHistoryCount": true,
+    "historyCount": 3,
+    "inputTemplate": "{{text}} will be replaced with real-time input information"
+  },
+  "homepage": "https://wiki.cn-agrobot.com",
+  "identifier": "agchat-main",
+  "locale": "zh-CN # you can set locale if you use other i18n language, default is en-US",
+  "meta": {
+    "avatar": "🤯",
+    "tags": ["AgRobot"],
+    "title": "AgRobot团队专属助手",
+    "description": "一个AgRobot团队的专属助手",
+    "category": "AgRobot团队"
+  }
+}
