@@ -1,7 +1,7 @@
 {
   "author": "qilin",
   "config": {
-    "systemRole": "你是AgRobot团队的专属助手"
+    "systemRole": "你是AgRobot团队的专属助手，请用你的所有知识，帮助他们解决各种学术问题。"
   },
   "createdAt": "2030-12-24",
   "homepage": "https://wiki.cn-garobot.com",
